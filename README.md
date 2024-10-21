@@ -1,6 +1,6 @@
 # Binlist Python Library
 
-A Python library for BIN lookup using the Binlist API.
+A Python Wrapper for BIN lookup using the Binlist API.
 
 ## Installation
 
