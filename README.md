@@ -25,7 +25,7 @@ Here’s how to use the Binlist Python library in your projects:
 1. **Import the Library**: Import the necessary classes from the library.
 
 ```python
-from binlist import BIN_Lookup, RateLimitExceededError, BINLookupError
+from pybinlist import BIN_Lookup, RateLimitExceededError, BINLookupError
 ```
 
 2. **Create a BIN Lookup Instance**: Initialize the `BIN_Lookup` class with the desired BIN.
